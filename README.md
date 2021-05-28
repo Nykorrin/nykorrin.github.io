@@ -1,2 +1,2 @@
 # nykorrin.github.io
-Work in progress. View it [here](https://nykorrin.github.io)
+[Click here](https://nykorrin.github.io) to visit my HTML/CSS introductory project.
