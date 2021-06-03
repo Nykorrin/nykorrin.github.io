@@ -52,9 +52,20 @@ img {
 }
 
 a {
-    font-size: 50px;
+    font-size: 25px;
     transition: color 0.5s ease;
     margin: auto 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.button {
+    padding: 7px 7px;
+    display: inline-block;
+    background-color: #353535;
+    border-radius: 15%;
+    margin: 4px 2px;
+    cursor: pointer;
 }
 
 a:link {
